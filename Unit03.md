@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL103: Moral and Political Philosophy"
+course_description: "A survey of the development and application of moral reasoning skills to contemporary social and political issues. Topics include philosophical investigations of justice, the value of human life, the moral standing of the free market, fundamental human rights and the conditions for a moral community."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Morality, Markets, and Immanuel Kant** <span id="3"></span> 
 *John Locke and the libertarian philosophers he inspired hold that
 justice and morality are a matter of respecting the fundamental rights

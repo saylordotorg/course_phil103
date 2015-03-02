@@ -1,3 +1,10 @@
+---
+layout: default
+title: "PHIL103: Moral and Political Philosophy"
+course_description: "A survey of the development and application of moral reasoning skills to contemporary social and political issues. Topics include philosophical investigations of justice, the value of human life, the moral standing of the free market, fundamental human rights and the conditions for a moral community."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "PHIL103: Moral and Political Philosophy"
 -------------------------------------------------------------
 
